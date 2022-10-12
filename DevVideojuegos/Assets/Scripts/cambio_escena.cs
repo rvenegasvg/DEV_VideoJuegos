@@ -9,7 +9,8 @@ public class cambio_escena : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.P))
         {
-            SceneManager.LoadScene("escena siguiente");
+            //SceneManager.LoadScene("escena siguiente");
+            SceneManager.LoadScene("singletontest_siguiente");
         }
     }
 }

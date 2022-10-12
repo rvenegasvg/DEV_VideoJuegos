@@ -269,6 +269,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1194469348}
   - component: {fileID: 1194469347}
+  - component: {fileID: 1194469349}
   m_Layer: 0
   m_Name: Controlador
   m_TagString: Untagged
@@ -288,6 +289,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf8ddc0b1a8e91342bc96c6485c184be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  segundos: 0
+  maxSegundos: 0
 --- !u!4 &1194469348
 Transform:
   m_ObjectHideFlags: 0
@@ -302,6 +305,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1194469349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194469346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33c951e4677c30d48b961a32cfa89452, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1323470727
 GameObject:
   m_ObjectHideFlags: 0

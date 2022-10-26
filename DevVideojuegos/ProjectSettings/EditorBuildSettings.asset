@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/singletontest_siguiente.unity
     guid: 7cce97c75cbe4884585e87d79e69a20d
+  - enabled: 1
+    path: Assets/Scenes/escena1.unity
+    guid: 3535cf537a4860142a84bc06fe944248
   m_configObjects: {}

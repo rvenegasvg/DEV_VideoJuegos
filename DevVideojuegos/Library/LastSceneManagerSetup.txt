@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/ui ejemplo.unity
+- path: Assets/Scenes/efectos musica y sonidos evento.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

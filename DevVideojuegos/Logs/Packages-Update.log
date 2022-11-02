@@ -53,3 +53,22 @@ Update Mode: updateDependencies
 The following packages were updated:
   com.unity.collab-proxy from version 1.15.16 to 1.17.0
   com.unity.ide.visualstudio from version 2.0.14 to 2.0.16
+
+=== Tue Nov  1 22:04:24 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.pixel-perfect@4.0.1
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+
+=== Wed Nov  2 12:37:34 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@2.3.0
+  com.unity.progrids@3.0.3-preview.4
